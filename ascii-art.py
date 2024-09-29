@@ -47,7 +47,7 @@ def save_ascii_art(ascii_art, output_file):
         f.write(ascii_art)
 
 # Path to your image
-image_path = r"C://Users/7/Documents/coding_tutorial/DSA/Practice/image_file.png"
+image_path = r"your_imge.png"
 # Convert the image to ASCII
 ascii_art = image_to_ascii(image_path)
 # Save the ASCII art to a file
